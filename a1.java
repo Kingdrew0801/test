@@ -1,3 +1,7 @@
 public class a1
 {
-i
+	public static void main(String[] args)
+	{
+		System.out.println("我是a1.java");
+	}
+}
