@@ -6,6 +6,6 @@ public class a1
 	{
 		Scanner in = new Scanner(System.in);
 		a = in.next();
-		System.out.println("我是a1.java");
+		System.out.println("我是a哈哈哈.java");
 	}
 }
